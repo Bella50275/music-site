@@ -1,0 +1,20 @@
+
+body{
+    background-image: url(https://shopkaliuchis.com/cdn/shop/files/UCHIS-0010_OrquideasPre-Order_SiteExp_Meta-01ShareImage_1200x.png?v=1697043249); 
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+
+}
+h1{ 
+    color: rgb(216, 134, 212)}
+
+h1{
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+table,th,td{
+   border: 1px solid rgb(175, 63, 147); 
+   background-color:rgb(224, 172, 198);
+   color:rgb(175, 63, 147) ;
+    
+}
